@@ -36,10 +36,11 @@
 <body>
 <div id="wrap">
     <div id="main">
-        <h1>환영합니다!</h1>
+        <h1>환영합니다! </h1>
         <h2><a href="/user/login">로그인</a></h2>
         <h2><a href="/user/join">회원가입</a></h2>
     </div>
+    <!-- git commit test -->
 </div>
 </body>
 </html>
